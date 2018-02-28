@@ -1,2 +1,5 @@
 # CTI110
-CTI110 Repository
+# CTI110 Repository
+P2LAB
+Faust
+2/28/2018
